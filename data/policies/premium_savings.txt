@@ -1,0 +1,11 @@
+Product: Premium Savings Account
+
+Eligibility Criteria:
+- Age must be at least 21 years.
+- Annual income must be at least INR 800,000.
+- KYC status must be ACTIVE.
+
+Benefits:
+- Preferential interest rates.
+- Priority customer support.
+- Reduced service charges.

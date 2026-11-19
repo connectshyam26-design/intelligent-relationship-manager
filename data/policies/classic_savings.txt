@@ -1,0 +1,9 @@
+Product: Classic Savings Account
+
+Eligibility Criteria:
+- Age must be at least 18 years.
+- KYC status must be ACTIVE.
+
+Benefits:
+- Standard savings account services.
+- Digital banking access.
